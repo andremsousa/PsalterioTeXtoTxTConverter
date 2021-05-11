@@ -1,6 +1,7 @@
 ###############################################################
 # Script that convert Psalterio TeX formatted songs to txt
 # Author: André Sousa, 2021
+#
 ###############################################################
 
 import re
